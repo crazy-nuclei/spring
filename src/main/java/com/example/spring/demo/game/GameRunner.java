@@ -2,9 +2,9 @@ package com.example.spring.demo.game;
 
 public class GameRunner {
 	
-	public MarioGame game;
+	public GamingConsole game;
 
-	public GameRunner(MarioGame game) {
+	public GameRunner(GamingConsole game) {
 		super();
 		this.game = game;
 	} 

@@ -1,6 +1,6 @@
 package com.example.spring.demo.game;
 
-public class PackmanGame {
+public class PackmanGame implements GamingConsole {
 	
 	public void up() {
 		System.out.println("Packman up");
