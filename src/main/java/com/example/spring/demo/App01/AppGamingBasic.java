@@ -1,4 +1,4 @@
-package com.example.spring.demo;
+package com.example.spring.demo.App01;
 
 import com.example.spring.demo.game.GameRunner;
 import com.example.spring.demo.game.GamingConsole;
